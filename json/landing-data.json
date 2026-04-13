@@ -1,50 +1,152 @@
 {
-  "site": {
-    "name": "Sonrisa Norte",
-    "title": "Sonrisa Norte | Consultorio Dental",
-    "description": "Landing profesional para consultorio dental: limpiezas, ortodoncia, implantes y urgencias con agenda online.",
-    "language": "es",
-    "canonical": "https://www.sonrisanorte.com/"
+  "recipe 1": {
+    "nombre": "Tacos de pollo al limon",
+    "detalles": "Tacos rapidos con pollo, verduras salteadas y limon.",
+    "tiempo": "35 min"
   },
-  "hero": {
-    "kicker": "Atencion dental integral",
-    "headline": "Sonrisas sanas, seguras y naturales en cada etapa",
-    "text": "En Sonrisa Norte combinamos tecnologia digital, trato humano y planes personalizados para que cuidar tu salud bucal sea simple y comodo.",
-    "stats": [
-      { "value": "+2.400", "label": "Pacientes atendidos" },
-      { "value": "4.9/5", "label": "Valoracion promedio" },
-      { "value": "Urgencias", "label": "Atencion el mismo dia" }
-    ]
+  "recipe 2": {
+    "nombre": "Pasta al pesto",
+    "detalles": "Pasta con salsa pesto de albahaca, ajo, nueces y queso.",
+    "tiempo": "25 min"
   },
-  "services": [
-    {
-      "id": 1,
-      "name": "Limpieza y prevencion",
-      "description": "Control de placa, fluor y educacion personalizada para mantener una boca sana."
-    },
-    {
-      "id": 2,
-      "name": "Ortodoncia moderna",
-      "description": "Alineadores transparentes y brackets esteticos con seguimiento digital."
-    },
-    {
-      "id": 3,
-      "name": "Implantes dentales",
-      "description": "Rehabilitacion funcional y estetica para recuperar confianza al sonreir."
-    },
-    {
-      "id": 4,
-      "name": "Blanqueamiento seguro",
-      "description": "Resultados naturales en pocas sesiones con protocolos de alta seguridad."
-    }
-  ],
-  "contact": {
-    "phone": "+54 011 1234 5678",
-    "phoneLink": "tel:+5401112345678",
-    "whatsapp": "https://wa.me/5401112345678",
-    "email": "turnos@sonrisanorte.com",
-    "address": "Av. Central 1245, Piso 2",
-    "hours": "Lun-Sab 8:30-20:00"
+  "recipe 3": {
+    "nombre": "Brownie de avena y cacao",
+    "detalles": "Brownie casero de cacao y avena, ideal para merienda.",
+    "tiempo": "40 min"
   },
-  "updatedAt": "2026-04-13"
+  "recipe 4": {
+    "nombre": "Ensalada cesar con pollo",
+    "detalles": "Lechuga, pollo grillado, crutones y aderezo cesar.",
+    "tiempo": "20 min"
+  },
+  "recipe 5": {
+    "nombre": "Milanesas al horno",
+    "detalles": "Milanesas doradas al horno con poca grasa.",
+    "tiempo": "45 min"
+  },
+  "recipe 6": {
+    "nombre": "Risotto de hongos",
+    "detalles": "Arroz cremoso con hongos salteados y parmesano.",
+    "tiempo": "40 min"
+  },
+  "recipe 7": {
+    "nombre": "Sopa crema de calabaza",
+    "detalles": "Sopa suave de calabaza con toque de nuez moscada.",
+    "tiempo": "30 min"
+  },
+  "recipe 8": {
+    "nombre": "Hamburguesa casera",
+    "detalles": "Medallon de carne vacuna con pan y vegetales.",
+    "tiempo": "30 min"
+  },
+  "recipe 9": {
+    "nombre": "Tortilla de papas",
+    "detalles": "Clasica tortilla de papas y cebolla bien jugosa.",
+    "tiempo": "35 min"
+  },
+  "recipe 10": {
+    "nombre": "Pollo al curry",
+    "detalles": "Pollo en salsa de curry y leche de coco.",
+    "tiempo": "35 min"
+  },
+  "recipe 11": {
+    "nombre": "Empanadas de carne",
+    "detalles": "Empanadas horneadas con relleno tradicional argentino.",
+    "tiempo": "60 min"
+  },
+  "recipe 12": {
+    "nombre": "Pizza margarita",
+    "detalles": "Pizza de tomate, mozzarella y albahaca fresca.",
+    "tiempo": "50 min"
+  },
+  "recipe 13": {
+    "nombre": "Lasaña de verduras",
+    "detalles": "Capas de pasta con verduras grilladas y salsa blanca.",
+    "tiempo": "70 min"
+  },
+  "recipe 14": {
+    "nombre": "Guiso de lentejas",
+    "detalles": "Guiso nutritivo con lentejas, verduras y especias.",
+    "tiempo": "55 min"
+  },
+  "recipe 15": {
+    "nombre": "Omelette de queso",
+    "detalles": "Omelette esponjoso relleno con queso derretido.",
+    "tiempo": "10 min"
+  },
+  "recipe 16": {
+    "nombre": "Fideos con tuco",
+    "detalles": "Pasta con salsa de tomate casera y ajo.",
+    "tiempo": "25 min"
+  },
+  "recipe 17": {
+    "nombre": "Wrap vegetariano",
+    "detalles": "Tortilla rellena de hummus, vegetales y palta.",
+    "tiempo": "15 min"
+  },
+  "recipe 18": {
+    "nombre": "Arroz chaufa",
+    "detalles": "Arroz salteado con huevo, pollo y salsa de soja.",
+    "tiempo": "25 min"
+  },
+  "recipe 19": {
+    "nombre": "Pechuga rellena",
+    "detalles": "Pechuga rellena de espinaca y queso al horno.",
+    "tiempo": "40 min"
+  },
+  "recipe 20": {
+    "nombre": "Tarta de atun",
+    "detalles": "Tarta salada de atun, cebolla y morron.",
+    "tiempo": "45 min"
+  },
+  "recipe 21": {
+    "nombre": "Ñoquis de papa",
+    "detalles": "Ñoquis suaves de papa con salsa fileto.",
+    "tiempo": "50 min"
+  },
+  "recipe 22": {
+    "nombre": "Ceviche clasico",
+    "detalles": "Pescado marinado en limon con cebolla y cilantro.",
+    "tiempo": "20 min"
+  },
+  "recipe 23": {
+    "nombre": "Panqueques dulces",
+    "detalles": "Panqueques finos para rellenar con dulce de leche.",
+    "tiempo": "20 min"
+  },
+  "recipe 24": {
+    "nombre": "Muffins de banana",
+    "detalles": "Muffins humedos de banana y canela.",
+    "tiempo": "35 min"
+  },
+  "recipe 25": {
+    "nombre": "Budin de limon",
+    "detalles": "Budin esponjoso con glaseado suave de limon.",
+    "tiempo": "50 min"
+  },
+  "recipe 26": {
+    "nombre": "Cheesecake frio",
+    "detalles": "Tarta de queso sin horno con base de galletas.",
+    "tiempo": "30 min"
+  },
+  "recipe 27": {
+    "nombre": "Paella mixta",
+    "detalles": "Arroz con mariscos y pollo al estilo mediterraneo.",
+    "tiempo": "60 min"
+  },
+  "recipe 28": {
+    "nombre": "Polenta con salsa",
+    "detalles": "Polenta cremosa con salsa roja y queso.",
+    "tiempo": "25 min"
+  },
+  "recipe 29": {
+    "nombre": "Chili con carne",
+    "detalles": "Guiso picante de carne, porotos y tomate.",
+    "tiempo": "50 min"
+  },
+  "recipe 30": {
+    "nombre": "Poke de salmon",
+    "detalles": "Bowl fresco con arroz, salmon y vegetales.",
+    "tiempo": "20 min"
+  }
 }
