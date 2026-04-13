@@ -1,0 +1,50 @@
+{
+  "site": {
+    "name": "Sonrisa Norte",
+    "title": "Sonrisa Norte | Consultorio Dental",
+    "description": "Landing profesional para consultorio dental: limpiezas, ortodoncia, implantes y urgencias con agenda online.",
+    "language": "es",
+    "canonical": "https://www.sonrisanorte.com/"
+  },
+  "hero": {
+    "kicker": "Atencion dental integral",
+    "headline": "Sonrisas sanas, seguras y naturales en cada etapa",
+    "text": "En Sonrisa Norte combinamos tecnologia digital, trato humano y planes personalizados para que cuidar tu salud bucal sea simple y comodo.",
+    "stats": [
+      { "value": "+2.400", "label": "Pacientes atendidos" },
+      { "value": "4.9/5", "label": "Valoracion promedio" },
+      { "value": "Urgencias", "label": "Atencion el mismo dia" }
+    ]
+  },
+  "services": [
+    {
+      "id": 1,
+      "name": "Limpieza y prevencion",
+      "description": "Control de placa, fluor y educacion personalizada para mantener una boca sana."
+    },
+    {
+      "id": 2,
+      "name": "Ortodoncia moderna",
+      "description": "Alineadores transparentes y brackets esteticos con seguimiento digital."
+    },
+    {
+      "id": 3,
+      "name": "Implantes dentales",
+      "description": "Rehabilitacion funcional y estetica para recuperar confianza al sonreir."
+    },
+    {
+      "id": 4,
+      "name": "Blanqueamiento seguro",
+      "description": "Resultados naturales en pocas sesiones con protocolos de alta seguridad."
+    }
+  ],
+  "contact": {
+    "phone": "+54 011 1234 5678",
+    "phoneLink": "tel:+5401112345678",
+    "whatsapp": "https://wa.me/5401112345678",
+    "email": "turnos@sonrisanorte.com",
+    "address": "Av. Central 1245, Piso 2",
+    "hours": "Lun-Sab 8:30-20:00"
+  },
+  "updatedAt": "2026-04-13"
+}
