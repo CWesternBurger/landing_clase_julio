@@ -1,0 +1,16 @@
+{
+  "name": "Sonrisa Norte Consultorio Dental",
+  "short_name": "Sonrisa Norte",
+  "description": "Landing profesional para consultorio dental.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f6f7",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "assets/img/favicon.svg",
+      "sizes": "64x64",
+      "type": "image/svg+xml"
+    }
+  ]
+}
